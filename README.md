@@ -4,7 +4,7 @@ A fully responsive, modern dashboard built with React, TypeScript, and Tailwind 
 
 ## 🌐 Live Demo
 
-**Live Link:** [https://dashboard-ui-rouge.vercel.app/](https://dashboard-ui-rouge.vercel.app/)
+**Live Link:** [https://juspay-dashboard-guna.netlify.app/](https://juspay-dashboard-guna.netlify.app/)
 
 ## ✨ Features
 
@@ -95,7 +95,7 @@ A fully responsive, modern dashboard built with React, TypeScript, and Tailwind 
 - **Icons:** Lucide React icon library
 - **Notifications:** React Hot Toast
 - **Build Tool:** Create React App
-- **Deployment:** Vercel
+- **Deployment:** Netlify
 
 ## 📁 **Project Structure**
 
@@ -195,6 +195,6 @@ src/
 
 ---
 
-**Live Demo:** [https://dashboard-ui-rouge.vercel.app/](https://dashboard-ui-rouge.vercel.app/)
+**Live Demo:** [https://juspay-dashboard-guna.netlify.app/](https://juspay-dashboard-guna.netlify.app/)
 
 This project demonstrates modern React development practices, responsive design principles, and advanced UI/UX implementation techniques.
