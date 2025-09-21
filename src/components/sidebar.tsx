@@ -2,12 +2,8 @@ import { useState } from "react"
 import {
   ChevronRight,
   ChevronDown,
-  BarChart3,
   FolderOpen,
   BookOpen,
-  User,
-  Settings,
-  Building2,
   FileText,
   MessageCircle,
   ShoppingBag,
@@ -15,7 +11,6 @@ import {
   UserCheck,
   CreditCard,
   Users,
-  Hash,
   List,
 } from "lucide-react"
 
